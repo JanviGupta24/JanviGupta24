@@ -149,8 +149,6 @@ interests:
 
 ### 📄 DocuAI
 
-### 📄 DocuAI
-
 > Privacy-first AI document platform for chatting with PDFs using local LLMs and RAG.
 
 `Next.js` `TypeScript` `Node.js` `Python` `MongoDB` `Ollama` `FAISS`
