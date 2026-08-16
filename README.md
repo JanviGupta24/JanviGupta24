@@ -208,25 +208,6 @@ interests:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/JanviGupta24">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=JanviGupta24&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Janvi Gupta GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/JanviGupta24">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviGupta24&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Janvi Gupta Top Languages"
-  />
-</a>
-
-</div>
 
 ---
 
