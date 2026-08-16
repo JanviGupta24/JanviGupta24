@@ -136,7 +136,7 @@ interests:
 
 ### 📊 Customer Lifetime Value Prediction
 
-> ML-powered system for predicting customer lifetime value using predictive techniques
+> Machine learning application for predicting customer lifetime value from historical customer data.
 
 `Python` `Machine Learning`
 
