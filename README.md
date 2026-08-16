@@ -160,9 +160,9 @@ interests:
 
 ### 🌱 EcoTrack
 
-> JavaScript-based project focused on environmental tracking and sustainability
+> A web application focused on environmental awareness, tracking, and sustainability.
 
-`JavaScript`
+`Node.js` `JavaScript` `React.js` `MongoDB` `OpenAI`
 
 [View Repository →](https://github.com/JanviGupta24/EcoTrack)
 
