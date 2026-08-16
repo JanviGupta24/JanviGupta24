@@ -125,7 +125,7 @@ interests:
 
 ### 🧠 Customer Churn Prediction
 
-> Machine learning system for predicting customer churn using predictive modeling techniques
+> Machine learning application that analyzes customer data and predicts the likelihood of customer churn.
 
 `Python` `Machine Learning` `Jupyter Notebook`
 
