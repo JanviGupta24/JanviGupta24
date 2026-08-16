@@ -149,9 +149,11 @@ interests:
 
 ### 📄 DocuAI
 
-> AI-powered document application built with TypeScript
+### 📄 DocuAI
 
-`TypeScript` `AI`
+> Privacy-first AI document platform for chatting with PDFs using local LLMs and RAG.
+
+`Next.js` `TypeScript` `Node.js` `Python` `MongoDB` `Ollama` `FAISS`
 
 [View Repository →](https://github.com/JanviGupta24/DocuAI)
 
