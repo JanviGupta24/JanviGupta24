@@ -210,13 +210,21 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JanviGupta24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviGupta24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" height="180" alt="Top Languages"/>
+<a href="https://github.com/JanviGupta24">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=JanviGupta24&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Janvi Gupta GitHub Stats"
+  />
+</a>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JanviGupta24&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<a href="https://github.com/JanviGupta24">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviGupta24&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Janvi Gupta Top Languages"
+  />
+</a>
 
 </div>
 
