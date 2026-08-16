@@ -195,12 +195,6 @@ interests:
 
 </picture>
 
-</div>
-
-<sub>⚠️ <i>Snake animation requires a GitHub Actions workflow — see below</i></sub>
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
