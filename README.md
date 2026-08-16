@@ -221,13 +221,15 @@ interests:
 
 <div align="center">
 
-```text
-🚀 Full-Stack Development       ████████████████████░░░░   80%
-🤖 Machine Learning             ██████████████████░░░░░░   72%
-✨ Generative AI                 ████████████████░░░░░░░░   64%
-🔗 Gemini API & Ollama          ██████████████░░░░░░░░░░   56%
-🧠 LLM Integration              ████████████░░░░░░░░░░░░   48%
-```
+`🚀 Full-Stack Development` &nbsp;&nbsp;
+`🤖 Machine Learning` &nbsp;&nbsp;
+`✨ Generative AI`
+
+<br/>
+
+`🔗 Gemini API` &nbsp;&nbsp;
+`🦙 Ollama` &nbsp;&nbsp;
+`🧠 LLM Integration`
 
 </div>
 
