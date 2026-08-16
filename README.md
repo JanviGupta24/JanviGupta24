@@ -208,6 +208,21 @@ interests:
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+<img
+  height="180"
+  src="./profile/stats.svg"
+  alt="Janvi Gupta GitHub Stats"
+/>
+
+<img
+  height="180"
+  src="./profile/top-langs.svg"
+  alt="Janvi Gupta Top Languages"
+/>
+
+</div>
 
 ---
 
