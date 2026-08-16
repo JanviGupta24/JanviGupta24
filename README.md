@@ -176,11 +176,29 @@ interests:
 
 <div align="center">
 
+<h2>🐍 Watch my contributions get eaten</h2>
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanviGupta24/JanviGupta24/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanviGupta24/JanviGupta24/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/JanviGupta24/JanviGupta24/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JanviGupta24/JanviGupta24/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JanviGupta24/JanviGupta24/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/JanviGupta24/JanviGupta24/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
 </picture>
+
+</div>
 
 <sub>⚠️ <i>Snake animation requires a GitHub Actions workflow — see below</i></sub>
 
