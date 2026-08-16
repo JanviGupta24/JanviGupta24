@@ -38,17 +38,17 @@
 
 ```yaml
 name    : Janvi Gupta
-role    : Mern Stack Developer + AI/ML Developer
+role    : MERN Stack Developer + AI/ML Developer
 github  : JanviGupta24
 
 currently:
-  - Building mern-stack applications
+  - Building MERN-Stack applications
   - Exploring AI/ML integration
   - Working with Gemini API and Ollama
   - Improving software engineering skills
 
 interests:
-  - Mern-stack development
+  - MERN-stack development
   - Machine Learning
   - AI-powered applications
   - LLM integration
