@@ -172,9 +172,6 @@ interests:
 
 ---
 
-## 🐍 Watch my contributions get eaten
-
-<div align="center">
 
 <h2>🐍 Watch my contributions get eaten</h2>
 
